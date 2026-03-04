@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "venv-proxy"
+version = "0.1.0"
+description = "Automatic virtual environment resolution — never type 'source .venv/bin/activate' again"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.9"
+keywords = ["virtualenv", "venv", "python", "devtools", "AI agents"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Operating System :: POSIX :: Linux",
+    "Operating System :: MacOS :: MacOS X",
+]
+
+[project.scripts]
+venv-proxy = "venv_proxy.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/yourusername/venv-proxy"
+Issues = "https://github.com/yourusername/venv-proxy/issues"
