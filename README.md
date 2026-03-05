@@ -4,10 +4,13 @@
 [![PyPI](https://img.shields.io/pypi/v/venv-proxy.svg)](https://pypi.org/project/venv-proxy/)
 [![Python](https://img.shields.io/pypi/pyversions/venv-proxy.svg)](https://pypi.org/project/venv-proxy/)
 [![License](https://img.shields.io/pypi/l/venv-proxy.svg)](https://github.com/JulienPoitou/venv-proxy/blob/main/LICENSE)
+[![Downloads](https://static.pepy.tech/badge/venv-proxy)](https://pepy.tech/project/venv-proxy)
 
 **Never type `source .venv/bin/activate` again.**
 
 Not you. Not your AI agent.
+
+> 💡 **Used by developers working with:** Claude Code, Cursor, Copilot, and other AI coding assistants.
 
 ```bash
 pip install venv-proxy
@@ -143,6 +146,16 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for setup inst
 
 ---
 
+## Community & Support
+
+- 🐛 **Issues:** [GitHub Issues](https://github.com/JulienPoitou/venv-proxy/issues)
+- 💬 **Discussions:** [GitHub Discussions](https://github.com/JulienPoitou/venv-proxy/discussions)
+- 📢 **Updates:** Follow [@JulienPoitou](https://twitter.com) on X/Twitter
+
+**Found venv-proxy useful?** Star the repo and share it with your team! ⭐
+
+---
+
 ## License
 
 MIT
@@ -150,3 +163,5 @@ MIT
 ---
 
 *Built because [this GitHub issue](https://github.com/anthropics/claude-code/issues/9368) has been open too long.*
+
+*If venv-proxy saved you time, consider [sponsoring](https://github.com/sponsors/JulienPoitou) future development!*
