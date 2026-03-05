@@ -1,9 +1,9 @@
 # venv-proxy
 
-[![Tests](https://github.com/yourusername/venv-proxy/actions/workflows/test.yml/badge.svg)](https://github.com/yourusername/venv-proxy/actions/workflows/test.yml)
+[![Tests](https://github.com/JulienPoitou/venv-proxy/actions/workflows/test.yml/badge.svg)](https://github.com/JulienPoitou/venv-proxy/actions/workflows/test.yml)
 [![PyPI](https://img.shields.io/pypi/v/venv-proxy.svg)](https://pypi.org/project/venv-proxy/)
 [![Python](https://img.shields.io/pypi/pyversions/venv-proxy.svg)](https://pypi.org/project/venv-proxy/)
-[![License](https://img.shields.io/pypi/l/venv-proxy.svg)](https://github.com/yourusername/venv-proxy/blob/main/LICENSE)
+[![License](https://img.shields.io/pypi/l/venv-proxy.svg)](https://github.com/JulienPoitou/venv-proxy/blob/main/LICENSE)
 
 **Never type `source .venv/bin/activate` again.**
 

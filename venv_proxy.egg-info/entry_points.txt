@@ -1,2 +1,0 @@
-[console_scripts]
-venv-proxy = venv_proxy.cli:main

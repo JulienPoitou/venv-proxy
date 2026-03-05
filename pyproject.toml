@@ -28,5 +28,5 @@ classifiers = [
 venv-proxy = "venv_proxy.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/venv-proxy"
-Issues = "https://github.com/yourusername/venv-proxy/issues"
+Homepage = "https://github.com/JulienPoitou/venv-proxy"
+Issues = "https://github.com/JulienPoitou/venv-proxy/issues"
