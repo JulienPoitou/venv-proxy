@@ -6,6 +6,14 @@
 [![License](https://img.shields.io/pypi/l/venv-proxy.svg)](https://github.com/JulienPoitou/venv-proxy/blob/main/LICENSE)
 [![Downloads](https://static.pepy.tech/badge/venv-proxy)](https://pepy.tech/project/venv-proxy)
 
+## Demo
+
+**Without venv-proxy** — python points to system:
+[![asciicast](https://asciinema.org/a/giRJiVkZEUVAGxu3.svg)](https://asciinema.org/a/giRJiVkZEUVAGxu3)
+
+**With venv-proxy** — python points to .venv automatically:
+[![asciicast](https://asciinema.org/a/WbkVorR0pe8TlS2r.svg)](https://asciinema.org/a/WbkVorR0pe8TlS2r)
+
 **Never type `source .venv/bin/activate` again.**
 
 Not you. Not your AI agent.
